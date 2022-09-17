@@ -51,7 +51,7 @@ function _TestLogin() {
 }
 
 echo -e  "${YEL}                     WordPress Mass Bruteforce"
-echo -e "${CLR}                 https://github.com/JExCoders/MassWP${YEL}"
+echo -e "${CLR}                 https://github.com/trhacknon/Mass-WP${YEL}"
 
 echo -ne "[?] Input website target : "
 read Target
