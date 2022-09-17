@@ -5,7 +5,7 @@ WordPress Mass BruteForce
 <br>
 $ pkg install git bash -y
 <br>
-$ git clone https://github.com/JExCoders/MassWP
+$ git clone https://github.com/trhacknon/Mass-WP
 <br>
 $ cd MassWP
 <br>
